@@ -1,4 +1,5 @@
 import clsx from 'clsx';
+import Link from 'next/link';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   children: React.ReactNode;
